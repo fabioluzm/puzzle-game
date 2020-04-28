@@ -2,8 +2,6 @@
 .import/
 
 # Binaries
-bin/
-build/
-lib/
-
-# Assets
+!bin/
+!build/
+!lib/
