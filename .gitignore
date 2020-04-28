@@ -1,5 +1,5 @@
 # Import cache
-!.import/
+.import/
 
 # Binaries
 bin/
@@ -7,5 +7,3 @@ build/
 lib/
 
 # Assets
-
-assets/
